@@ -1,9 +1,8 @@
-### It's Me Rizqi Samawa :eye:
+## Hello There 👁️
 
-- ☕ https://buymeacoffee.com/mhd
-- 🕊️ https://twitter.com/mhdnauvalazhar
+- 🕊️ https://twitter.com/rizqisamawa
 - 🎨 https://www.figma.com/@rizqisamawa
-- 📖 https://multinity.id/book/tailwind-css
-- 📹 https://www.youtube.com/arrayid
+- 📖 https://www.instagram.com/rizqisamawa/
 
-More info: `npx risam`
+---
+Command Prompt: `npx risqisamawa`
