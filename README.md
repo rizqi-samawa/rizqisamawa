@@ -1,8 +1,8 @@
 ## Hello There 👁️
 
-- 🕊️ https://twitter.com/rizqisamawa
-- 🎨 https://www.figma.com/@rizqisamawa
-- 📖 https://www.instagram.com/rizqisamawa/
+- :wolf: https://twitter.com/rizqisamawa
+- :bear: https://www.figma.com/@rizqisamawa
+- :bat: https://www.instagram.com/rizqisamawa/
 
 Command Prompt : `  npx risqisamawa  `
 
