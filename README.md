@@ -6,11 +6,17 @@
 
 Command Prompt : `  npx risqisamawa  `
 
-## 👁️ Information
+## Status Githubs 👁️
 
-<p align="center" >  
+<p align="right" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=rizqisamawa&show_icons=true&theme=dark"/>
+  </a>
+</p>
+
+##  Language Progamming 👁️
+<p align="right" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqisamawa&layout=compact"/>
   </a>
 </p>
