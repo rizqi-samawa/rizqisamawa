@@ -4,7 +4,7 @@
 - :bear: https://www.figma.com/@rizqisamawa
 - :bat: https://www.instagram.com/rizqisamawa/
 
-Command Prompt : `  npx risqisamawa  `
+Command Prompt : `  npx rizqisamawa  `
 
 ## Status Githubs 👁️
 
