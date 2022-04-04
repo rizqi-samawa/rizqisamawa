@@ -4,6 +4,16 @@
 - 🎨 https://www.figma.com/@rizqisamawa
 - 📖 https://www.instagram.com/rizqisamawa/
 
----
-<img height="40" src="https://github.com/rizqisamawa/rizqisamawa/blob/47083ffadc5b11fbe0663afd8167d1338f3449bd/assets/whie%20wolf.gif"/> Links
-Command Prompt :   `  npx risqisamawa  `
+Command Prompt : `  npx risqisamawa  `
+
+## 👁️ Information
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=rizqisamawa&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqisamawa&layout=compact"/>
+  </a>
+</p>
+
+
+
