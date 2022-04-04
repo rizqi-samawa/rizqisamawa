@@ -5,4 +5,4 @@
 - 📖 https://www.instagram.com/rizqisamawa/
 
 ---
-Command Prompt: `npx risqisamawa`
+Command Prompt: **npx risqisamawa**
