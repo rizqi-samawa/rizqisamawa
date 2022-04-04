@@ -8,18 +8,18 @@ Command Prompt : `  npx risqisamawa  `
 
 ## Status Githubs 👁️
 
-<p align="right" >  
+<p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=rizqisamawa&show_icons=true&theme=dark"/>
   </a>
 </p>
 
-##  Language Progamming 👁️
+<!-- ##  Language Progamming 👁️
 <p align="right" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqisamawa&layout=compact"/>
   </a>
-</p>
+</p> -->
 
 
 
