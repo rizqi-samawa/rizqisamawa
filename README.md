@@ -1,4 +1,5 @@
-## Hello There 👁️
+## Hello There
+
 
 - :wolf: https://twitter.com/rizqisamawa
 - :bear: https://www.figma.com/@rizqisamawa
@@ -6,7 +7,7 @@
 
 Command Prompt : `  npx rizqisamawa  `
 
-## Status Githubs 👁️
+## Status Githubs
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -14,7 +15,7 @@ Command Prompt : `  npx rizqisamawa  `
   </a>
 </p>
 
-<!-- ##  Language Progamming 👁️
+<!-- ##  Language Progamming
 <p align="right" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqisamawa&layout=compact"/>
