@@ -1,4 +1,4 @@
-##   Hi, It's me.
+##   Hello Everyone.
 
 [![rizqisamawa github profile](https://img.shields.io/github/followers/rizqisamawa?label=Follow&style=social)](https://github.com/rizqisamawa)
 
