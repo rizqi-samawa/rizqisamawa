@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone</h1>
+<h1 align="left">Hello Everyone</h1>
 
 <!-- <p align="center">
   Bala bulu badu ba bodo ba
@@ -21,7 +21,7 @@
 
 <hr>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=rizqisamawa&show_icons=true&theme=dark&line_height=40&hide=issues"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqisamawa&hide=issues&langs_count=4&theme=dark"/>
