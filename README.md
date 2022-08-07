@@ -13,7 +13,6 @@
 
 [![rizqisamawa github profile](https://img.shields.io/github/followers/rizqisamawa?label=Follow&style=social)](https://github.com/rizqisamawa)
 
--  https://twitter.com/rizqisamawa
 -  https://www.figma.com/@rizqisamawa
 -  https://www.instagram.com/rizqisamawa/
 
