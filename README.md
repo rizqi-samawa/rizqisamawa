@@ -21,7 +21,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-***Info Minim***
+***Info Minim:***
 
 `npx rizqisamawa`
 
