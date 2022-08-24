@@ -21,6 +21,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+***Info Minim***
 
 `npx rizqisamawa`
 
@@ -33,6 +34,9 @@
 
 <br>
 
+***Link Others:***
+
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizqisamawa11)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizqisamawa)
 [![figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@rizqisamawa)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizqi-samawa-549895194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA78t%2FJmIRrOlEa5v9A2gOg%3D%3D)
