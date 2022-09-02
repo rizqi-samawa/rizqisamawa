@@ -1,6 +1,6 @@
 # <img width="50px" height="50px" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> Hi, Everyone
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Frontend+Developer;Mobile+Developer;&color=00D7FF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Frontend+Developer;&color=00D7FF)](https://git.io/typing-svg)
 
 ***Tech Stack:***
 
