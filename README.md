@@ -43,3 +43,4 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizqisamawa)
 [![figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@rizqisamawa)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizqi-samawa-549895194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA78t%2FJmIRrOlEa5v9A2gOg%3D%3D)
+[![GitLab](https://img.shields.io/badge/gitlab-E44C30.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rizqisamawa11)
