@@ -31,7 +31,7 @@
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=rizqisamawa&show_icons=true&theme=tokyonight&line_height=40&hide=issues"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqisamawa&hide=issues,Blade&langs_count=4&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqisamawa&langs_count=4&theme=tokyonight"/>
   </a>
 </div>
 
